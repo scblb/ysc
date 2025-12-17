@@ -217,24 +217,17 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 连山综合,http://120.76.248.139/live/bfgd/4200000491.m3u8
 
 
-
-
-
-
-
 🇭🇰港🇲🇴澳🇹🇼湾,#genre#
-
-
-
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,https://stream1.freetv.fun/bfd140266f0bc1d9689c8cca261521038b45d662a160a3785d45d074b26899c2.m3u8
-凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+
+
 
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -1183,6 +1176,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
