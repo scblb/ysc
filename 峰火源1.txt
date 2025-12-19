@@ -228,7 +228,7 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 
 凤凰中文,https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
 
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
@@ -1140,6 +1140,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
