@@ -238,6 +238,89 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 
 
+港,#genre#
+
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+凤凰中文,https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
+凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
+凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
+凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-5.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-9.ctv
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-13.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
+凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+澳门莲花,http://php.jdshipin.com/amlh.php
 
 
 
@@ -463,7 +546,20 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 
  🌺🌺 广东,#genre#
 
-
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
  河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
  河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
  河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
@@ -680,6 +776,14 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 鄞州二套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
 
+钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
@@ -838,7 +942,38 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
 新县综合HD,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 新县综合HD,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-
+句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
+句容生活频道,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?zjiangsd
+句容影院频道,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+句容党建频道,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?zjiangsd
+沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
+[河南]焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
+[河南]焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
+[河南]宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
+[河南]郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
+[河南]开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
+[河南]开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
+[河南]济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
+[河南]巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
+[河南]荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
+[河南]温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
+[河南]唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
+[河南]新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+[河南]扶沟综合频道,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+[河南]鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+[河南]西华综合频道,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
+[河南]新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
+[河南]卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
+[河南]新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
+[河南]滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
+[河南]内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
+[河南]禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
+义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 
 
  🏂🏂福建,#genre#
@@ -1088,6 +1223,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
