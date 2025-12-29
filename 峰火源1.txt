@@ -464,8 +464,7 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 四川卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227603/index.m3u8
 天津卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227582/index.m3u8
 天津卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227600/index.m3u8
-西藏卫视(藏语),http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
-西藏卫视(藏语),http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227506/index.m3u8
+
 西藏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
 新疆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
 延边卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227607/index.m3u8
@@ -477,13 +476,21 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227580/index.m3u8
 
 🍺🍺辽宁,#genre#
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
 
 辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
 辽宁经济,http://36.129.58.53:8008/paiptv/LNJJ.m3u8
 辽宁生活,http://36.129.58.53:8008/paiptv/LNSH.m3u8
-辽宁影视剧,http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
 辽宁北方,http://36.129.58.53:8008/paiptv/LNBF.m3u8
 辽宁公共,http://36.129.58.53:8008/paiptv/LNGG.m3u8
+辽宁影视剧,http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
 辽宁体育,http://36.129.58.53:8008/paiptv/LNTY.m3u8
 
 辽宁北方,http://39.134.61.219/PLTV/88888888/224/3221226515/index.m3u8
@@ -506,8 +513,6 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 辽宁影视剧,http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
 沈阳新闻综合,http://39.134.61.219/PLTV/88888888/224/3221226924/index.m3u8
 
-
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
@@ -524,11 +529,6 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 盘锦新闻综合,http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227529/index.m3u8
 盘锦都市,http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227495/index.m3u8
 
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
 辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
@@ -543,10 +543,24 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 盘锦新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227529/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
-
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
 辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+
+辽阳新闻综合,http://120.76.248.139/live/bfgd/4200000280.m3u8
+沈阳新闻,http://120.76.248.139/live/bfgd/4200000059.m3u8
+丹东新闻综合,http://120.76.248.139/live/bfgd/4200000276.m3u8
+大连新闻综合,http://120.76.248.139/live/bfgd/4200000273.m3u8
+鞍山新闻综合,http://120.76.248.139/live/bfgd/4200000274.m3u8
+抚顺新闻综合,http://120.76.248.139/live/bfgd/4200000275.m3u8
+本溪新闻频道,http://120.76.248.139/live/bfgd/4200000312.m3u8
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
+阜新新闻综合,http://120.76.248.139/live/bfgd/4200000279.m3u8
+营口新闻频道,http://120.76.248.139/live/bfgd/4200000278.m3u8
+盘锦新闻综合,http://120.76.248.139/live/bfgd/4200000283.m3u8
+铁岭综合频道,http://120.76.248.139/live/bfgd/4200000281.m3u8
+锦州新闻综合,http://120.76.248.139/live/bfgd/4200000277.m3u8
+葫芦岛新闻综合,http://120.76.248.139/live/bfgd/4200000284.m3u8
+龙港综合,http://120.76.248.139/live/bfgd/4200000490.m3u8
+连山综合,http://120.76.248.139/live/bfgd/4200000491.m3u8
 
 
 🇭🇰港🇲🇴澳🇹🇼湾,#genre#
@@ -1515,6 +1529,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
