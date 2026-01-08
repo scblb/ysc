@@ -2,6 +2,26 @@
 
 🇨🇳央视,#genre#
 
+CCTV1,http://43.251.226.89/10001.php?id=1917
+CCTV2,http://43.251.226.89/10001.php?id=1918
+CCTV3,http://43.251.226.89/10001.php?id=1919
+CCTV4,http://43.251.226.89/10001.php?id=1920
+CCTV5,http://43.251.226.89/10001.php?id=1921
+CCTV6,http://43.251.226.89/10001.php?id=1922
+CCTV7,http://43.251.226.89/10001.php?id=1923
+CCTV8,http://43.251.226.89/10001.php?id=1924
+CCTV9,http://43.251.226.89/10001.php?id=1925
+CCTV10,http://43.251.226.89/10001.php?id=1926
+CCTV11,http://43.251.226.89/10001.php?id=1927
+CCTV12,http://43.251.226.89/10001.php?id=1928
+CCTV13,http://43.251.226.89/10001.php?id=1929
+CCTV14,http://43.251.226.89/10001.php?id=1930
+CCTV15,http://43.251.226.89/10001.php?id=1931
+CCTV16,http://43.251.226.89/10001.php?id=1932
+CCTV17,http://43.251.226.89/10001.php?id=1933
+CCTV5+,http://43.251.226.89/10001.php?id=1934
+
+
 CCTV1,http://live1.jzjsnm.cn/live1/cctv1_sd.m3u8?auth_key=1674380689129-0-0-33b866062e0fd04f6716d1178a54ec89
 CCTV2,http://live1.jzjsnm.cn/live1/cctv2_sd.m3u8?auth_key=1674380714768-0-0-169f569dcf4861f4fcee2f147582afb2
 CCTV4,http://live1.jzjsnm.cn/live1/cctv4_sd.m3u8?auth_key=1674380730443-0-0-52065a31109414e7ca8eee2262cde29c
@@ -70,7 +90,24 @@ CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
-
+CCTV1,http://43.251.226.89/10001.php?id=1980
+CCTV2,http://43.251.226.89/10001.php?id=1981
+CCTV3,http://43.251.226.89/10001.php?id=1982
+CCTV4,http://43.251.226.89/10001.php?id=1983
+CCTV5+,http://43.251.226.89/10001.php?id=1984
+CCTV5,http://43.251.226.89/10001.php?id=1985
+CCTV6,http://43.251.226.89/10001.php?id=1986
+CCTV7,http://43.251.226.89/10001.php?id=1987
+CCTV7,http://43.251.226.89/10001.php?id=1988
+CCTV8,http://43.251.226.89/10001.php?id=1989
+CCTV9,http://43.251.226.89/10001.php?id=1990
+CCTV10,http://43.251.226.89/10001.php?id=1991
+CCTV11,http://43.251.226.89/10001.php?id=1992
+CCTV12,http://43.251.226.89/10001.php?id=1993
+CCTV13,http://43.251.226.89/10001.php?id=1994
+CCTV14,http://43.251.226.89/10001.php?id=1995
+CCTV15,http://43.251.226.89/10001.php?id=1996
+CCTV17,http://43.251.226.89/10001.php?id=1997
 
 
 CCTV1,http://36.129.58.53:8008/paiptv/CCTV1-HD.m3u8
@@ -235,6 +272,18 @@ CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227455/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227458/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227568/index.m3u8
+
+家庭理财,http://43.251.226.89/10001.php?id=1970
+金鹰纪实,http://43.251.226.89/10001.php?id=1971
+金鹰卡通,http://43.251.226.89/10001.php?id=1972
+睛彩广场舞,http://43.251.226.89/10001.php?id=1973
+睛彩竞技,http://43.251.226.89/10001.php?id=1974
+睛彩篮球,http://43.251.226.89/10001.php?id=1975
+睛彩青少,http://43.251.226.89/10001.php?id=1976
+咪咕视频,http://43.251.226.89/10001.php?id=1977
+新动漫,http://43.251.226.89/10001.php?id=1979
+
+
 CCTV兵器科技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
 CCTV第一剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
 CCTV风云剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
@@ -251,7 +300,84 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 咪咕视频,http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
 咪咕视频,http://39.134.61.219/PLTV/88888888/224/3221226901/index.m3u8
 
+优漫卡通,http://43.251.226.89/10001.php?id=2042
+卡酷少儿,http://43.251.226.89/10001.php?id=2043
+金鹰卡通,http://43.251.226.89/10001.php?id=2044
+CGTN,http://43.251.226.89/10001.php?id=2045
+嘉佳卡通,http://43.251.226.89/10001.php?id=2046
+优漫卡通,http://43.251.226.89/10001.php?id=2047
+
+
 🇨🇳📡卫视,#genre#
+
+安徽卫视,http://43.251.226.89/10001.php?id=1946
+北京卫视,http://43.251.226.89/10001.php?id=1947
+东方卫视,http://43.251.226.89/10001.php?id=1948
+东南卫视,http://43.251.226.89/10001.php?id=1949
+广东卫视,http://43.251.226.89/10001.php?id=1950
+广西卫视,http://43.251.226.89/10001.php?id=1951
+贵州卫视,http://43.251.226.89/10001.php?id=1952
+海南卫视,http://43.251.226.89/10001.php?id=1953
+河北卫视,http://43.251.226.89/10001.php?id=1954
+河南卫视,http://43.251.226.89/10001.php?id=1955
+黑龙江卫视,http://43.251.226.89/10001.php?id=1956
+湖北卫视,http://43.251.226.89/10001.php?id=1957
+湖南卫视,http://43.251.226.89/10001.php?id=1958
+吉林卫视,http://43.251.226.89/10001.php?id=1959
+江苏卫视,http://43.251.226.89/10001.php?id=1960
+江西卫视,http://43.251.226.89/10001.php?id=1961
+山东卫视,http://43.251.226.89/10001.php?id=1962
+深圳卫视,http://43.251.226.89/10001.php?id=1963
+四川卫视,http://43.251.226.89/10001.php?id=1964
+天津卫视,http://43.251.226.89/10001.php?id=1965
+云南卫视,http://43.251.226.89/10001.php?id=1966
+浙江卫视,http://43.251.226.89/10001.php?id=1967
+重庆卫视,http://43.251.226.89/10001.php?id=1968
+
+安徽卫视,http://43.251.226.89/10001.php?id=1999
+北京卫视,http://43.251.226.89/10001.php?id=2000
+兵团卫视,http://43.251.226.89/10001.php?id=2001
+东方卫视,http://43.251.226.89/10001.php?id=2002
+东南卫视,http://43.251.226.89/10001.php?id=2003
+甘肃卫视,http://43.251.226.89/10001.php?id=2004
+甘肃卫视,http://43.251.226.89/10001.php?id=2005
+广东卫视,http://43.251.226.89/10001.php?id=2006
+广西卫视,http://43.251.226.89/10001.php?id=2007
+贵州卫视,http://43.251.226.89/10001.php?id=2008
+海南卫视,http://43.251.226.89/10001.php?id=2009
+河北卫视,http://43.251.226.89/10001.php?id=2010
+河南卫视,http://43.251.226.89/10001.php?id=2011
+黑龙江卫视,http://43.251.226.89/10001.php?id=2012
+湖北卫视,http://43.251.226.89/10001.php?id=2013
+湖南卫视,http://43.251.226.89/10001.php?id=2014
+吉林卫视,http://43.251.226.89/10001.php?id=2015
+江苏卫视,http://43.251.226.89/10001.php?id=2016
+江西卫视,http://43.251.226.89/10001.php?id=2017
+教育卫视1,http://43.251.226.89/10001.php?id=2018
+教育卫视2,http://43.251.226.89/10001.php?id=2019
+教育卫视3,http://43.251.226.89/10001.php?id=2020
+教育卫视4,http://43.251.226.89/10001.php?id=2021
+康巴卫视,http://43.251.226.89/10001.php?id=2022
+辽宁卫视,http://43.251.226.89/10001.php?id=2023
+内蒙古卫视,http://43.251.226.89/10001.php?id=2024
+宁夏卫视,http://43.251.226.89/10001.php?id=2025
+农林卫视,http://43.251.226.89/10001.php?id=2026
+青海卫视,http://43.251.226.89/10001.php?id=2027
+厦门卫视,http://43.251.226.89/10001.php?id=2028
+山东教育卫视,http://43.251.226.89/10001.php?id=2029
+山东卫视,http://43.251.226.89/10001.php?id=2030
+山西卫视,http://43.251.226.89/10001.php?id=2031
+陕西卫视,http://43.251.226.89/10001.php?id=2032
+深圳卫视,http://43.251.226.89/10001.php?id=2033
+四川卫视,http://43.251.226.89/10001.php?id=2034
+天津卫视,http://43.251.226.89/10001.php?id=2035
+西藏卫视,http://43.251.226.89/10001.php?id=2036
+新疆卫视,http://43.251.226.89/10001.php?id=2037
+延边卫视,http://43.251.226.89/10001.php?id=2038
+云南卫视,http://43.251.226.89/10001.php?id=2039
+浙江卫视,http://43.251.226.89/10001.php?id=2040
+重庆卫视,http://43.251.226.89/10001.php?id=2041
+安多卫视,http://43.251.226.89/10001.php?id=1998
 
 
 北京卫视,http://live1.jzjsnm.cn/live1/beijing_sd.m3u8?auth_key=1674380838880-0-0-3de900dceb7b3e68fc8ca6dd48628631
@@ -532,6 +658,18 @@ CCTV央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505
 
 
 🍺🍺辽宁,#genre#
+
+辽宁卫视,http://43.251.226.89/10001.php?id=1935
+辽宁都市,http://43.251.226.89/10001.php?id=1936
+辽宁北方,http://43.251.226.89/10001.php?id=1937
+辽宁公共,http://43.251.226.89/10001.php?id=1938
+辽宁教育青少,http://43.251.226.89/10001.php?id=1939
+辽宁经济,http://43.251.226.89/10001.php?id=1940
+辽宁生活,http://43.251.226.89/10001.php?id=1941
+辽宁影视剧,http://43.251.226.89/10001.php?id=1942
+辽宁体育休闲,http://43.251.226.89/10001.php?id=1943
+辽宁移动电视,http://43.251.226.89/10001.php?id=1945
+沈阳新闻综合,http://43.251.226.89/10001.php?id=1978
 
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
@@ -1155,6 +1293,8 @@ TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playliv
 
 
 🎈🎈北京,#genre#
+
+北京纪实科教,http://43.251.226.89/10001.php?id=1969
  BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
  北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
  房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
@@ -1664,6 +1804,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
