@@ -2,6 +2,26 @@
 
 🇨🇳央视,#genre#
 
+CCTV1,http://43.251.226.89/10001.php?id=1980
+CCTV2,http://43.251.226.89/10001.php?id=1981
+CCTV3,http://43.251.226.89/10001.php?id=1982
+CCTV4,http://43.251.226.89/10001.php?id=1983
+CCTV5+,http://43.251.226.89/10001.php?id=1984
+CCTV5,http://43.251.226.89/10001.php?id=1985
+CCTV6,http://43.251.226.89/10001.php?id=1986
+CCTV7,http://43.251.226.89/10001.php?id=1987
+CCTV7,http://43.251.226.89/10001.php?id=1988
+CCTV8,http://43.251.226.89/10001.php?id=1989
+CCTV9,http://43.251.226.89/10001.php?id=1990
+CCTV10,http://43.251.226.89/10001.php?id=1991
+CCTV11,http://43.251.226.89/10001.php?id=1992
+CCTV12,http://43.251.226.89/10001.php?id=1993
+CCTV13,http://43.251.226.89/10001.php?id=1994
+CCTV14,http://43.251.226.89/10001.php?id=1995
+CCTV15,http://43.251.226.89/10001.php?id=1996
+CCTV17,http://43.251.226.89/10001.php?id=1997
+
+
 CCTV1,http://43.251.226.89/10001.php?id=1917
 CCTV2,http://43.251.226.89/10001.php?id=1918
 CCTV3,http://43.251.226.89/10001.php?id=1919
@@ -86,24 +106,7 @@ CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
-CCTV1,http://43.251.226.89/10001.php?id=1980
-CCTV2,http://43.251.226.89/10001.php?id=1981
-CCTV3,http://43.251.226.89/10001.php?id=1982
-CCTV4,http://43.251.226.89/10001.php?id=1983
-CCTV5+,http://43.251.226.89/10001.php?id=1984
-CCTV5,http://43.251.226.89/10001.php?id=1985
-CCTV6,http://43.251.226.89/10001.php?id=1986
-CCTV7,http://43.251.226.89/10001.php?id=1987
-CCTV7,http://43.251.226.89/10001.php?id=1988
-CCTV8,http://43.251.226.89/10001.php?id=1989
-CCTV9,http://43.251.226.89/10001.php?id=1990
-CCTV10,http://43.251.226.89/10001.php?id=1991
-CCTV11,http://43.251.226.89/10001.php?id=1992
-CCTV12,http://43.251.226.89/10001.php?id=1993
-CCTV13,http://43.251.226.89/10001.php?id=1994
-CCTV14,http://43.251.226.89/10001.php?id=1995
-CCTV15,http://43.251.226.89/10001.php?id=1996
-CCTV17,http://43.251.226.89/10001.php?id=1997
+
 
 
 CCTV1,http://36.129.58.53:8008/paiptv/CCTV1-HD.m3u8
@@ -1779,6 +1782,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
