@@ -586,6 +586,9 @@ CCTV央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index
 
 
 🇭🇰港🇲🇴澳🇹🇼湾,#genre#
+凤凰中文,http://w.yao87.com:4022/udp/239.76.253.135:9000
+凤凰资讯,http://w.yao87.com:4022/udp/239.76.253.134:9000
+
 
 
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
@@ -1633,6 +1636,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
