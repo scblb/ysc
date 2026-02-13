@@ -588,101 +588,18 @@ CCTV央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index
 🇭🇰港🇲🇴澳🇹🇼湾,#genre#
 凤凰中文,http://w.yao87.com:4022/udp/239.76.253.135:9000
 凤凰资讯,http://w.yao87.com:4022/udp/239.76.253.134:9000
-
-
-
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-
-
-
-
-
-
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,https://httop.top/fengshows-fenghk
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-Now新闻,http://cdn.163189.xyz/163189/now 
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线明珠(英),http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-
-TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
- 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
- 
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
 
 🐅🐅吉林,#genre#
 
@@ -1636,6 +1553,7 @@ THREESOM,http://cdn.redtraffic.net/threesome.m3u8
 THREESOME TV,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
+
 
 
 
